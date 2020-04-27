@@ -1,0 +1,46 @@
+{"yemekler":[
+  {
+  "yemekId":1, 
+  "yemekAdi":"Yemek Adi 1", 
+  "yemekAciklama":"Tarin Detayları",
+  "yemekTur":"Tür 1",
+  "yemekPisirmeSuresi":"Doe"
+  "yemekAciklama":"Doe"
+  "yemekHazirlamaSuresi":"Doe"
+  "yemekKisiSayisi":"Doe"
+  "yemekResim":"Doe"
+  "yemekMalzemeler":"Doe"
+  
+
+  },
+  {
+  "yemekId":2, 
+  "yemekAdi":"Doe", 
+  "yemekAciklama":"Doe",
+  "yemekTur":"Doe",
+  "yemekPisirmeSuresi":"Doe"
+  "yemekAciklama":"Doe"
+  "yemekHazirlamaSuresi":"Doe"
+  "yemekKisiSayisi":"Doe"
+  "yemekResim":"Doe"
+  "yemekMalzemeler":"Doe"
+  
+
+  },
+  {
+  "yemekId":3, 
+  "yemekAdi":"Doe", 
+  "yemekAciklama":"Doe",
+  "yemekTur":"Doe",
+  "yemekPisirmeSuresi":"Doe"
+  "yemekAciklama":"Doe"
+  "yemekHazirlamaSuresi":"Doe"
+  "yemekKisiSayisi":"Doe"
+  "yemekResim":"Doe"
+  "yemekMalzemeler":"Doe"
+  
+
+  }
+  
+]}
+
