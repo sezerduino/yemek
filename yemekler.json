@@ -4,11 +4,11 @@
   "yemekAdi":"Yemek Adi 1", 
   "yemekAciklama":"Tarin Detayları",
   "yemekTur":"Tür 1",
-  "yemekPisirmeSuresi":"Doe"
-  "yemekAciklama":"Doe"
-  "yemekHazirlamaSuresi":"Doe"
-  "yemekKisiSayisi":"Doe"
-  "yemekResim":"Doe"
+  "yemekPisirmeSuresi":"Doe",
+  "yemekAciklama":"Doe",
+  "yemekHazirlamaSuresi":"Doe",
+  "yemekKisiSayisi":"Doe",
+  "yemekResim":"Doe",
   "yemekMalzemeler":"Doe"
   
 
@@ -18,11 +18,11 @@
   "yemekAdi":"Doe", 
   "yemekAciklama":"Doe",
   "yemekTur":"Doe",
-  "yemekPisirmeSuresi":"Doe"
-  "yemekAciklama":"Doe"
-  "yemekHazirlamaSuresi":"Doe"
-  "yemekKisiSayisi":"Doe"
-  "yemekResim":"Doe"
+  "yemekPisirmeSuresi":"Doe",
+  "yemekAciklama":"Doe",
+  "yemekHazirlamaSuresi":"Doe",
+  "yemekKisiSayisi":"Doe",
+  "yemekResim":"Doe",
   "yemekMalzemeler":"Doe"
   
 
@@ -32,13 +32,12 @@
   "yemekAdi":"Doe", 
   "yemekAciklama":"Doe",
   "yemekTur":"Doe",
-  "yemekPisirmeSuresi":"Doe"
-  "yemekAciklama":"Doe"
-  "yemekHazirlamaSuresi":"Doe"
-  "yemekKisiSayisi":"Doe"
-  "yemekResim":"Doe"
+  "yemekPisirmeSuresi":"Doe",
+  "yemekAciklama":"Doe",
+  "yemekHazirlamaSuresi":"Doe",
+  "yemekKisiSayisi":"Doe",
+  "yemekResim":"Doe",
   "yemekMalzemeler":"Doe"
-  
 
   }
   
